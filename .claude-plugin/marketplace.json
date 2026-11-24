@@ -1,0 +1,13 @@
+{
+  "name": "codemode-marketplace",
+  "owner": {
+    "name": "miladsoor"
+  },
+  "plugins": [
+    {
+      "name": "codemode",
+      "source": "./",
+      "description": "Native code editing in the Claude Code prompt."
+    }
+  ]
+}

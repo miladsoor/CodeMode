@@ -1,0 +1,13 @@
+{
+  "name": "codemode",
+  "version": "0.2.0",
+  "description": "Lightweight native prompt syntax highlighting and indentation for Claude Code.",
+  "license": "MIT",
+  "keywords": [
+    "code",
+    "editor",
+    "learning",
+    "syntax-highlighting",
+    "composer"
+  ]
+}
